@@ -1,5 +1,6 @@
 require 'ruby-processing'
 class ProcessArtist < Processing::App
+	#This is my first ruby processing project and I love it!
 
 	def setup
 		background(255, 0, 0)
